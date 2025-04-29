@@ -1,6 +1,6 @@
 # Task6
 
-Took online sales dataset for analysis.
+Downloaded online sales dataset from kaggle.
 
 Performed data cleaning methods like removing of null values, duplicate values, checked column constistency, checked data types.
 
